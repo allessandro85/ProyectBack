@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LwVIRIS6RMH75d4M1qXrASvMPvAI6vYzdASSeTvmjK1Cma5Lk2f6HgG+wKvsAErInxQKSjBgigi/WSHpJP29g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectIO\\ProyectIO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mindware\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

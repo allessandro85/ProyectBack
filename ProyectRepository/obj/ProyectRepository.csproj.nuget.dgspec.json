@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectRepository\\ProyectRepository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectIO\\ProyectIO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectIO\\ProyectIO.csproj",
+        "projectName": "ProyectIO",
+        "projectPath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectIO\\ProyectIO.csproj",
+        "packagesPath": "C:\\Users\\Mindware\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectIO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mindware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectModels\\ProyectModels.csproj": {
+                "projectPath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectModels\\ProyectModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectModels\\ProyectModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectModels\\ProyectModels.csproj",
+        "projectName": "ProyectModels",
+        "projectPath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectModels\\ProyectModels.csproj",
+        "packagesPath": "C:\\Users\\Mindware\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mindware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectRepository\\ProyectRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectRepository\\ProyectRepository.csproj",
+        "projectName": "ProyectRepository",
+        "projectPath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectRepository\\ProyectRepository.csproj",
+        "packagesPath": "C:\\Users\\Mindware\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mindware\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectIO\\ProyectIO.csproj": {
+                "projectPath": "C:\\Users\\Mindware\\Desktop\\Nueva carpeta\\ProyectBack\\ProyectIO\\ProyectIO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

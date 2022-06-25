@@ -1,0 +1,12 @@
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\bin\Debug\net6.0\ProyectModels.deps.json
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\bin\Debug\net6.0\ProyectModels.dll
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\bin\Debug\net6.0\ProyectModels.pdb
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\ProyectModels.csproj.AssemblyReference.cache
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\ProyectModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\ProyectModels.AssemblyInfoInputs.cache
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\ProyectModels.AssemblyInfo.cs
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\ProyectModels.csproj.CoreCompileInputs.cache
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\ProyectModels.dll
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\refint\ProyectModels.dll
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\ProyectModels.pdb
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectModels\obj\Debug\net6.0\ref\ProyectModels.dll

@@ -1,0 +1,17 @@
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\bin\Debug\net6.0\ProyectRepository.deps.json
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\bin\Debug\net6.0\ProyectRepository.dll
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\bin\Debug\net6.0\ProyectRepository.pdb
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\bin\Debug\net6.0\ProyectIO.dll
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\bin\Debug\net6.0\ProyectModels.dll
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\bin\Debug\net6.0\ProyectIO.pdb
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\bin\Debug\net6.0\ProyectModels.pdb
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ProyectRepository.csproj.AssemblyReference.cache
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ProyectRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ProyectRepository.AssemblyInfoInputs.cache
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ProyectRepository.AssemblyInfo.cs
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ProyectRepository.csproj.CoreCompileInputs.cache
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ProyectRepository.csproj.CopyComplete
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ProyectRepository.dll
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\refint\ProyectRepository.dll
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ProyectRepository.pdb
+C:\Users\Mindware\Desktop\Nueva carpeta\ProyectBack\ProyectRepository\obj\Debug\net6.0\ref\ProyectRepository.dll
